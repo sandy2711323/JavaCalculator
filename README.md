@@ -1,2 +1,4 @@
 # JavaProjects---SandeepSatone
-This is my java repo where I keep my projects on which I am still working and My java practise files .
+This is the Repo for Calculator created in Java it is still under progress basic skeleton is added with theme changing . 
+Developed using javaswing
+
